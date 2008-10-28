@@ -1,6 +1,6 @@
 fixesproto
 ------------------------------------------
-Xorg XFixes protocol headers
+X.Org XFixes protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
