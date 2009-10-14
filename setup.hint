@@ -1,3 +1,4 @@
 category: X11
-sdesc: "X.Org XFixes protocol headers"
-ldesc: "X.Org XFixes protocol headers"
+requires: xproto xextproto
+sdesc: "X.Org XFixes extension headers"
+ldesc: "X.Org XFixes extension headers"
